@@ -1,5 +1,5 @@
 <h1 align="center">Now, you're with Min Htet Aung</h1>
-<h3 align="center">This developer is as busy as usual.</h3>
+<h3 align="center">Busy as usual.</h3>
 <img align="right" alt="chill" width="300" src="https://www.format.com/wp-content/uploads/jjjjjohn-skeleton-5.gif">
 
 - 🌱 I’m currently learning **Full-stack Development**
