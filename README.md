@@ -1,12 +1,13 @@
 <!-- <h1 align="center">Now, you're with Min Htet Aung</h1> -->
 <!-- <h3 align="center">Busy as usual.</h3> -->
-<img align="right" alt="chill" width="300" src="https://www.format.com/wp-content/uploads/jjjjjohn-skeleton-5.gif">
+<!-- <img align="right" alt="profile img" width="300" src="https://www.format.com/wp-content/uploads/jjjjjohn-skeleton-5.gif"> -->
+<img align="right" alt="profile img" width="300" src="https://github.com/minhtetaung672765/minhtetaung672765/blob/main/skeleton-pf.gif">
 
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 📌 Interested in **Enterprise Software**
 
-- ⚡ Fun fact about Me : **Nah, there is no such thing**
+- ⚡ Fun fact about Me : **Dunno**
 
 
 <!--
